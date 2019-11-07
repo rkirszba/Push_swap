@@ -48,7 +48,7 @@ The stack will sparkle if sorted, ortherwise it will turn black and white.
 
 <img src="https://github.com/rkirszba/Push_swap/blob/master/media/Quick_sort.gif">
 
-<img src="https://github.com/rkirszba/Push_swap/blob/master/media/Errors.gif">
+<img src="https://github.com/rkirszba/Push_swap/blob/master/media/Error.gif">
 
 
 
